@@ -1,0 +1,14 @@
+2026-08-04 21:07:57 [INFO] IndustrialMonitor: Starting Magnet Power Supply — Real-Time Predictive Monitoring
+2026-08-04 21:08:53 [INFO] IndustrialMonitor: Model loaded from models\lstm_temperature_model.keras (sequence_length=50, n_features=1)
+2026-08-04 21:09:10 [INFO] IndustrialMonitor: Streaming predictor initialized (features=['TrueTemperature_C'], sequence_length=50, output_looks_scaled=True)
+2026-08-04 21:19:33 [INFO] IndustrialMonitor: Streaming predictor initialized (features=['TrueTemperature_C'], sequence_length=50, output_looks_scaled=True)
+2026-08-04 22:37:32 [INFO] IndustrialMonitor: Starting Magnet Power Supply — Real-Time Predictive Monitoring
+2026-08-04 22:38:14 [INFO] IndustrialMonitor: Model loaded from models\lstm_temperature_model.keras (sequence_length=50, n_features=1)
+2026-08-04 22:38:29 [ERROR] IndustrialMonitor: Invalid CSV: CSV file is missing the required column 'TrueTemperature_C'.
+2026-08-04 22:39:42 [INFO] IndustrialMonitor: Streaming predictor initialized (features=['TrueTemperature_C'], sequence_length=50, output_looks_scaled=True)
+2026-08-18 18:37:00 [INFO] IndustrialMonitor: Starting Magnet Power Supply — Real-Time Predictive Monitoring
+2026-08-18 18:37:48 [INFO] IndustrialMonitor: Model loaded from models\lstm_temperature_model.keras (sequence_length=50, n_features=1)
+2026-08-18 18:38:08 [INFO] IndustrialMonitor: Streaming predictor initialized (features=['TrueTemperature_C'], sequence_length=50, output_looks_scaled=True)
+2026-09-05 10:12:53 [INFO] IndustrialMonitor: Starting Magnet Power Supply — Real-Time Predictive Monitoring
+2026-09-05 10:14:01 [INFO] IndustrialMonitor: Model loaded from models\lstm_temperature_model.keras (sequence_length=50, n_features=1)
+2026-09-05 10:14:20 [INFO] IndustrialMonitor: Streaming predictor initialized (features=['TrueTemperature_C'], sequence_length=50, output_looks_scaled=True)
